@@ -1,0 +1,6 @@
+{
+  "name": "Clomp e il Sillabario Spezzato",
+  "description": "A Japanese Kana learning RPG adventure featuring Clomp, dungeon exploration, turn-based battles, and a rich bestiary.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
